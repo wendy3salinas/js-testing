@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-server",
+  "version": "1.0.0",
+  "description": "Our first node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendy3salinas/nodejs-server.git"
+  },
+  "author": "Wendy Salinas-Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wendy3salinas/nodejs-server/issues"
+  },
+  "homepage": "https://github.com/wendy3salinas/nodejs-server#readme"
+}
